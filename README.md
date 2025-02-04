@@ -1,3 +1,3 @@
 # college-demo
 this my first git demo
-Author-omkar
+Author-omkar pavan kumar
